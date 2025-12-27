@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Anime Hunt</string>
+    <string name="anime_list_title">Anime Hunt</string>
+
+    <string name="offline_showing_cached">You\'re offline. Showing saved anime.</string>
+    <string name="offline_showing_cached_details">You\'re offline. Showing saved details.</string>
+    <string name="working_online">Working Online</string>
+    <string name="offline_no_cached_data">Offline mode • No cached data available</string>
+    <string name="you_are_offline_connect_to_internet_to_sync">You\'re offline. Connect to internet to sync.
+    </string>
+
+    <string name="server_error_try_again">Server error. Please try again.</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+
+    <string name="retry">Retry</string>
+    <string name="refresh_anime_list">Refreshing anime list…</string>
+
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_sync">Sync with network</string>
+
+    <string name="anime_details_title">Anime Details</string>
+    <string name="invalid_anime_id">Invalid anime ID</string>
+    <string name="error_loading_trailer">Unable to load trailer</string>
+    <string name="error_loading_details">Unable to load anime details</string>
+
+    <string name="no_synopsis">No Synopsis</string>
+
+
+
+
+</resources>
